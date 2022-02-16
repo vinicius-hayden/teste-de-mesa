@@ -4,6 +4,7 @@ produto = requeijao
 console.log(produto);
 
 console.log("Isto causará um erro!! Ou será que não?")
+console.log("Aceitem as sugestões!")
 
 produto = requeijao
 console.log(produto);
