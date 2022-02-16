@@ -12,3 +12,6 @@ console.log('Requeijao')
 
 var = carro
 console.log(carro)
+
+var = req
+console.log('pablo fez caca)
